@@ -46,7 +46,7 @@ h2{
     padding-bottom: 20px;
     padding-left: 50px;
 }
- .grey-section{
+ .description-section{
 background-color:#515151;
     padding:30px;
     color:white;
@@ -56,11 +56,11 @@ background-color:#515151;
     padding-left: 50px;
 }
 
-.grey-section h2{
+.description-section h2{
 font-size:50px;
 text-align:center;
 }
 
-.grey-section p{
+.description-section p{
 text-align:center;
 }
